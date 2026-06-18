@@ -1,0 +1,65 @@
+1.
+Draw a labeled diagram of a desktop PC, clearly marking the motherboard, CPU, RAM, GPU, and both HDD and SSD storage components.
+                                            
+                        MONITER
+           		             |
+           			           |
+     			   +----------------------------+
+     			   |              GPU           |
+             +----------------------------+
+                           |
+   			     +-----------------------------+
+  			     |             MOTHERBOARD     |
+  			     |                             |
+   			     |     CPU                RAM  |
+			       |                             |
+ 			       +-----------------------------+
+         				           |
+      			 +-----------------------------+
+     			   |    SSD              HDD     |
+      			 +-----------------------------+	
+         			 KEYBOARD              MOUSE
+
+2.Create a comparison table showing the main differences between HDD and SSD storage in terms of speed, durability, and typical use cases.<br><br><em><strong>Hint:</strong> Think about which one is faster, which is more shock-resistant, and where you would usually find each type (laptop, gaming PC, etc.).
+ANS:
+------------------------------------------------------------------------------------------------------------------
+|                              HHD                    |    	        SSD                                          |
+-----------------------------------------------------------------------------------------------------------------
+|                          Slow Speed                 |                        Fast Speed                        |
+|                           moving parts              |                       No Moving Parts                    |                                                                            
+|                              Cheaper                |                       more expansive                     |               
+|                          Less Durable               |                       More Durable                       |                                                                         |                         boot time long                            |                       boot time short                      |
+-----------------------------------------------------------------------------------------------------------------
+3.
+Write a short explanation (2-3 sentences each) describing the role of the CPU, RAM, and GPU in running a game like PUBG or Free Fire on a PC.
+ANS:
+CPU:
+⦁	CPU is the brain of computer.
+⦁	CPU perform to calculation and logical opretion.
+⦁	control computer opretion.
+⦁	CPU stand for central processing unit.
+RAM:
+⦁	RAM stand for random access memory.
+⦁	RAM  is temoparary data store.
+⦁	RAM is better multitasking.
+⦁	RAM faster application performance.
+⦁	RAM is smoother use experience.
+GPU:
+⦁	GPU stand for graphics processing unit.
+⦁	GPU use for gaming,video editing,3d modeling.
+⦁	GPU is high softwar work.
+4.
+Imagine you want to upgrade your PC to run the latest version of FIFA smoothly. List which hardware components you would consider upgrading and explain why for each.
+  1.motherbord:connect all component.
+  2.cpu: brain of computer.
+  3.GPU:GPU is high softwar work.
+  4.RAM:RAM is temporary data store work
+  5.HHD: traditional storage
+  6.SSD: fast modern storage
+
+
+                                       
+                                   
+                                                                             
+                                                                             
+                      
